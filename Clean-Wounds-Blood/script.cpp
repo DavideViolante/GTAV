@@ -1,7 +1,7 @@
 /*
-  SHOW COORDS XYZ AND ANGLE
+  CLEAN WOUNDS BLOOD
   Author: FunGt
-  Author ScriptHookV: Alexander Blade
+  Website: www.GTA-Modding.com
 */
 
 #include "script.h"
